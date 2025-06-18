@@ -1,0 +1,13 @@
+name: pibi_sfr
+channels:
+  - conda-forge
+dependencies:
+  - python==3.12.3
+  - pip
+  - pip:
+      - pyroomacoustics==0.8.3
+      - torch==2.6.0
+      - torchinfo==1.8.0
+      - scipy==1.15.2
+      - matplotlib==3.10.0
+      - numpy==2.2.3
