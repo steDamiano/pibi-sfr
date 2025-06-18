@@ -1,4 +1,4 @@
-# pibi-sfr
+# Sound Field Reconstruction Using Physics-Informed Boundary Integral Networks
 
 This repository contains the code for the paper:
     
